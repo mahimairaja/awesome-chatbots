@@ -20,6 +20,7 @@ A curated collection of ready-to-use chatbot implementations for various messagi
 | <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"> | [WhatsApp Chatbot](https://github.com/mahimairaja/demo-whatsapp-chatbot) | Versatile chatbot for WhatsApp | Group chat features, media sharing, interactive responses |
 | <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"> | [Instagram Chatbot](https://github.com/mahimairaja/demo-instagram-chatbot) | Engaging chatbot for Instagram | DM automation, content suggestions, follower engagement |
 | <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25"> | [Telegram Chatbot](https://github.com/mahimairaja/demo-telegram-chatbot) | Feature-rich chatbot for Telegram | Inline queries, custom keyboards, channel management |
+| [AI Group Call](https://aigroupcall.app) | - | Facilitate a live AI panel: agents answer one at a time, build on each other, and leave notes and action items after the call. | Free 3 min of live calls, no card |
 
 ## ✨ Features
 
